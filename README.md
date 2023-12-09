@@ -1,3 +1,3 @@
 # first-git
 <br>
-Author- Rushikesh Ghogare
+Author- Rushi Ghogare
